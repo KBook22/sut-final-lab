@@ -1,4 +1,4 @@
-package sutfinallab
+package entity
 
 import(
 	"gorm.io/gorm"
